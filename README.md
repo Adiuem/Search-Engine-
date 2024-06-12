@@ -205,3 +205,45 @@ Web MD — medical information search engine.
 
 YouTube Channels Information Database — database of YouTube influencers.
 Zillow — real estate search engine.
+
+Meta
+
+Dogpile - Powered by Metasearch technology, Dogpile returns all the best results from leading search engines including Google, Yahoo!, Bing and Ask, so you find what you're looking for faster.
+
+Each search engine has its own method of searching and each will return different results. Dogpile looks at all of them, decides which are most relevant to your search, eliminates duplicates and reveals them to you. In the end, you get a list of results more complete than anywhere else on the Web.
+
+Ixquick - When you search with Ixquick search engine, you are searching many popular search engines simultaneously and anonymously. Combined, these engines cover more of the Internet than any one search engine alone.
+
+An Ixquick result is awarded one star for every search engine that chooses it as one of the ten best results for your search. So a five star result means that five search engines agreed on the result.
+
+This is significant because search engines choose results in different ways, and each approach works well in some cases and poorly in others. A result with many stars was chosen for many different reasons, and is a consensus choice of many search engines.
+
+Also, while irrelevant Web pages can be "optimized" to fool a single search engine's algorithm, it is much harder for a page to fool all the search engines.
+
+Ixquick search results are more comprehensive and more accurate than other search engines. Ixquick's unique capabilities include a Universal Power Search, a global search and power refinement.
+
+Find phone numbers and addresses worldwide with Ixquick's International Phone Directory, or search through 18 million hours of video fun with Ixquick's Video search.
+
+Mamma.com - Mamma is a "smart" metasearch engine - it's like using multiple search engines, all at the same time. Founded in 1996, its one of the first and most popular search engines on the web today, with a rich history.
+
+MetaCrawler - MetaCrawler.com utilizes metasearch technology to compile results from many of the Web's major search properties, delivering more relevant and comprehensive results every time you search. By accessing multiple search engines for each query, MetaCrawler.com provides you with a richer and more relevant spectrum of results than you would from using any single search engine.
+
+The search results you receive are a combination of the top commercial (sponsored advertising) and non-commercial (algorithmic) results from the most popular search engines on the Web. MetaCrawler?s metasearch technology combines the top ranking search results from each of the separate search engines based on your specific query. The blend of sponsored and non-sponsored results for a given search term depends on the nature of the term, but sponsored results are always clearly identified with a "Sponsored" or similar designation.
+
+MetaCrawler.com web search is designed to identify the intent of a user's search and results are generally listed in order of relevance as they are received from the various search engine providers. The specific ranking and mixture of sponsored and non-sponsored results will depend on the nature of your search. For example, if you are searching for information about the prices of digital cameras and enter the term "digital camera prices," the results will generally include more sponsored results and include commercial Web pages containing information on the prices businesses are offering cameras for sale. If, on the other hand, you are searching for academic or general research purposes and enter the term "digital camera technology," the results will be weighted more toward articles, information and other non-commercial results about the technology behind digital cameras.
+
+Myriad Search - Myriad is an ad free meta search tool created by www.seobook.com.
+
+37.com - 37 search engines in one. Type Once, get results from up to 37 search engines.
+
+Clusty - Clusty queries several top search engines, combines the results, and generates an ordered list based on comparative ranking. This "metasearch" approach helps raise the best results to the top and push search engine spam to the bottom.
+
+But what really makes Clusty unique is what happens after you search. Instead of delivering millions of search results in one long list, our search engine groups similar results together into clusters. Clusters help you see your search results by topic so you can zero in on exactly what you?re looking for or discover unexpected relationships between items. When was the last time you went to the third or fourth page of the search results? Rather than scrolling through page after page, the clusters help you find results you may have missed or that were buried deep in the ranked list.
+
+InfoSpace - Experience the power of Metasearch ? search the Web on InfoSpace to get all the best results from leading search engines, plus results from Yellow Pages, White Pages and even Twitter.
+
+MegaCrawler - General directory and search.
+
+Monster Crawler - Monster Crawler combines the power of all the leading search engines together in one search box to deliver the best combined results. This is what we call metasearch. The process is more efficient and yields many more relevant results.
+
+Search.com - Search the Web by searching the best engines from one place.
