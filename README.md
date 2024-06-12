@@ -10,7 +10,7 @@ Dogpile: A meta-search engine that uses numerous indexes instead of just one to 
 Ask.com: A unique Q&A search engine that specializes in providing answers to questions asked in a natural way
 Searchcode: Lets you look through more than 20 big places online where people share code, like GitHub, Bitbucket, and SourceForge
 
-#Specialized search engines
+# Specialized search engines
 From sources across the web
 
 Google Search
@@ -72,7 +72,7 @@ IceRocket
 Goo search engine
 Gibiru
 
-#Comprehensive List
+# Comprehensive List
 
 Acronym Finder — find out what any acronym, abbreviation, or initialism stands for.
 Ad Network Directory — comprehensive list of 454 ad networks and platforms.
